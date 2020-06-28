@@ -74,19 +74,41 @@ They monitor the entire situation with 7 CCTV cameras on the platform. These are
 
 [![Watch the video](https://github.com/MrinmoiHossain/Smart-Queuing-System/blob/master/pictures/Transportation_Moment.jpg)](https://github.com/MrinmoiHossain/Smart-Queuing-System/blob/master/original_videos/Transportation.mp4)
 
+## Prerequisites
+* Intel DevCloud
+
+## Steps to Run the Project
+* **Step-1:** Create the Python Script
+* **Step-2:** Create the Job Submission Script
+* **Step-3:** Manufacturing Scenario
+* **Step-4:** Retail Scenario
+* **Step-5:** Transportation Scenario
+
 ## Result Using Differents Hardware
 
 ### Scenario 1: Manufacturing Sector (CPU)
+[![Watch the video](https://github.com/MrinmoiHossain/Smart-Queuing-System/blob/master/pictures/Manufacturing_Output_CPU_Moment.jpg)](https://github.com/MrinmoiHossain/Smart-Queuing-System/blob/master/results/manufacturing/cpu/output_video.mp4)
 ### Scenario 1: Manufacturing Sector (FPGA)
+[![Watch the video](https://github.com/MrinmoiHossain/Smart-Queuing-System/blob/master/pictures/Manufacturing_Output_FPGA_Moment.jpg)](https://github.com/MrinmoiHossain/Smart-Queuing-System/blob/master/results/manufacturing/fpga/output_video.mp4)
 ### Scenario 1: Manufacturing Sector (GPU)
+[![Watch the video](https://github.com/MrinmoiHossain/Smart-Queuing-System/blob/master/pictures/Manufacturing_Output_GPU_Moment.jpg)](https://github.com/MrinmoiHossain/Smart-Queuing-System/blob/master/results/manufacturing/gpu/output_video.mp4)
 ### Scenario 1: Manufacturing Sector (VPU)
+[![Watch the video](https://github.com/MrinmoiHossain/Smart-Queuing-System/blob/master/pictures/Manufacturing_Output_VPU_Moment.jpg)](https://github.com/MrinmoiHossain/Smart-Queuing-System/blob/master/results/manufacturing/vpu/output_video.mp4)
 
 ### Scenario 2: Retail Sector (CPU)
+[![Watch the video](https://github.com/MrinmoiHossain/Smart-Queuing-System/blob/master/pictures/Retail_Output_CPU_Moment.jpg)](https://github.com/MrinmoiHossain/Smart-Queuing-System/blob/master/results/retail/cpu/output_video.mp4)
 ### Scenario 2: Retail Sector (FPGA)
+[![Watch the video](https://github.com/MrinmoiHossain/Smart-Queuing-System/blob/master/pictures/Retail_Output_FPGA_Moment.jpg)](https://github.com/MrinmoiHossain/Smart-Queuing-System/blob/master/results/retail/fpga/output_video.mp4)
 ### Scenario 2: Retail Sector (GPU)
+[![Watch the video](https://github.com/MrinmoiHossain/Smart-Queuing-System/blob/master/pictures/Retail_Output_GPU_Moment.jpg)](https://github.com/MrinmoiHossain/Smart-Queuing-System/blob/master/results/retail/gpu/output_video.mp4)
 ### Scenario 2: Retail Sector (VPU)
+[![Watch the video](https://github.com/MrinmoiHossain/Smart-Queuing-System/blob/master/pictures/Retail_Output_VPU_Moment.jpg)](https://github.com/MrinmoiHossain/Smart-Queuing-System/blob/master/results/retail/vpu/output_video.mp4)
 
 ### Scenario 3: Transportation Sector (CPU)
+[![Watch the video](https://github.com/MrinmoiHossain/Smart-Queuing-System/blob/master/pictures/Transportation_Output_CPU_Moment.jpg)](https://github.com/MrinmoiHossain/Smart-Queuing-System/blob/master/results/transportation/cpu/output_video.mp4)
 ### Scenario 3: Transportation Sector (FPGA)
+[![Watch the video](https://github.com/MrinmoiHossain/Smart-Queuing-System/blob/master/pictures/Transportation_Output_FPGA_Moment.jpg)](https://github.com/MrinmoiHossain/Smart-Queuing-System/blob/master/results/transportation/fpga/output_video.mp4)
 ### Scenario 3: Transportation Sector (GPU)
+[![Watch the video](https://github.com/MrinmoiHossain/Smart-Queuing-System/blob/master/pictures/Transportation_Output_GPU_Moment.jpg)](https://github.com/MrinmoiHossain/Smart-Queuing-System/blob/master/results/transportation/gpu/output_video.mp4)
 ### Scenario 3: Transportation Sector (VPU)
+[![Watch the video](https://github.com/MrinmoiHossain/Smart-Queuing-System/blob/master/pictures/Transportation_Output_VPU_Moment.jpg)](https://github.com/MrinmoiHossain/Smart-Queuing-System/blob/master/results/transportation/vpu/output_video.mp4)
